@@ -1,0 +1,1 @@
+A prototype hybrid decision-support system that recommends a medical specialist from user-described symptoms, combining a deterministic rule engine with an LLM (Google Gemini) for natural-language understanding. Built as a scoped proof-of-concept for a larger graduation project. Not medical advice — for educational/demonstration purposes only
