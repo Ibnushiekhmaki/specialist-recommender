@@ -1,5 +1,5 @@
 id,language,age,gender,symptoms,duration,previous,history,expected_specialist,source
 
-1,en,55,male,"chest pain;shortness of breath",today,no,hypertension,Cardiologist,add your source here
-2,en,30,female,skin rash,weeks,yes,none,Dermatologist,add your source here
-3,en,40,male,"cough;shortness of breath",weeks,no,none,Pulmonologist,add your source here
+1,en,55,male,"chest pain;shortness of breath",today,no,hypertension,Cardiologist,"Mayo Clinic Health System, When to see a cardiologist, 2023"
+2,en,30,female,skin rash,weeks,yes,none,Dermatologist,"American Academy of Dermatology, Signs your rash needs medical attention, 2024"
+3,en,40,male,"cough;shortness of breath",over 8 weeks,no,none,Pulmonologist,"Michaudet and Malaty, Chronic Cough: Evaluation and Management, Am Fam Physician 2017"
