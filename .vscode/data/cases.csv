@@ -1,0 +1,5 @@
+id,language,age,gender,symptoms,duration,previous,history,expected_specialist,source
+
+1,en,55,male,"chest pain;shortness of breath",today,no,hypertension,Cardiologist,add your source here
+2,en,30,female,skin rash,weeks,yes,none,Dermatologist,add your source here
+3,en,40,male,"cough;shortness of breath",weeks,no,none,Pulmonologist,add your source here
