@@ -16,7 +16,7 @@ def find_specialist_for_symptom(symptom_tag):
     return result
 
 if __name__ == "__main__":
-    test_symptom = "headache"
+    test_symptom = "chest pain"
     result = find_specialist_for_symptom(test_symptom)
 
     if result:
