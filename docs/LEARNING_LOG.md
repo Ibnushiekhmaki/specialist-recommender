@@ -1,6 +1,6 @@
 # Learning Log
 
-## Day 1 — August 22, 2026
+## ## Day 1 - August 21, 2026
 ### Concepts learned
 - Functions with parameters, string methods (.strip, .lower, .split), list comprehensions
 - Dictionaries (key-value lookups)
@@ -34,7 +34,7 @@
 
 
 
-## Day 2 — August 23, 2026
+## ## Day 3 - August 24, 2026
 ### Concepts learned
 - SQLite schema design, sqlite3 module, PRIMARY KEY / FOREIGN KEY
 - Seeding data with executemany(), building an id lookup dict from a query result
